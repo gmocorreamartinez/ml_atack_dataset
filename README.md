@@ -1,4 +1,3 @@
-# ml_atack_dataset
 # Proyecto de predicción de ataques para el curso Aprendizaje de Máquinas
 
 Asignatura: Aprendizaje de máquinas (ACIF104)
@@ -33,4 +32,4 @@ data/: dataset o instrucciones para obtenerlo.\
 notebooks/: análisis exploratorio, experimentos y pruebas.\
 src/: scripts de limpieza, entrenamiento y predicción.\
 app/: frontend y backend del prototipo.\
-models/: pipelines serializados.\
+models/: pipelines serializados.
