@@ -29,8 +29,8 @@ Integrantes:
 
 
 ## Estructura del repositorio
-data/: dataset o instrucciones para obtenerlo.
-notebooks/: análisis exploratorio, experimentos y pruebas.
-src/: scripts de limpieza, entrenamiento y predicción.
-app/: frontend y backend del prototipo.
-models/: pipelines serializados.
+data/: dataset o instrucciones para obtenerlo.\
+notebooks/: análisis exploratorio, experimentos y pruebas.\
+src/: scripts de limpieza, entrenamiento y predicción.\
+app/: frontend y backend del prototipo.\
+models/: pipelines serializados.\
