@@ -1,7 +1,7 @@
 # ml_atack_dataset
 Proyecto de predicción de ataques para el curso Aprendizaje de Máquinas
 
-Asignatura: Aprendizaje de máquinas
+Asignatura: Aprendizaje de máquinas (ACIF104)
 Informe Fase 2
 Integrantes:
  - Daniel Prado Correa
