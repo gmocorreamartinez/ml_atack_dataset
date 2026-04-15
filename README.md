@@ -11,7 +11,7 @@ Integrantes:
 ## 1.	Objetivo del proyecto.
 El objetivo del proyecto es clasificar automáticamente los tipos de ataques y sus categorías utilizando descripciones técnicas y vulnerabilidades.\
 
-** Requisitos Funcionales: Clasificación, identificación de categorías, análisis de vulnerabilidades, visualización, filtrado y predicción.
+Requisitos Funcionales: Clasificación, identificación de categorías, análisis de vulnerabilidades, visualización, filtrado y predicción.
 
 
 ## 2.	Requisitos de instalación.
