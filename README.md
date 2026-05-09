@@ -21,6 +21,7 @@ python -m venv venv
 # Activar entorno 
 #Linux / Mac
 source venv/bin/activate
+
 # Windows
 venv\Scripts\activate
 
@@ -28,16 +29,13 @@ pip install -r requirements.txt
 python app.py || python3 app.py
 ```
 
-## 3.	Pasos para entrenar el modelo.
 
-
-
-## 4.	Pasos para ejecutar frontend y backend.
+## 3.	Pasos para ejecutar frontend y backend.
 pip install -r requirements.txt
 python app.py || python3 app.py
 
 
-## 5.	Ejemplo de uso.
+## 4.	Ejemplo de uso.
 
 <img width="1426" height="509" alt="image" src="https://github.com/user-attachments/assets/fb73c242-7786-48a3-907a-0d5af5581980" />
 
