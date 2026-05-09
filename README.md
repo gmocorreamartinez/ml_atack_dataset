@@ -1,7 +1,7 @@
 # Proyecto de Clasificación de Ataques de Ciberseguridad para el curso Aprendizaje de Máquinas
 
 Asignatura: Aprendizaje de máquinas (ACIF104)
-Informe Fase 2
+Informe Fase 3
 Integrantes:
  - Daniel Prado Correa
  - Ximena Cortes Rodriguez
